@@ -1,3 +1,7 @@
+
+## API MONGODB PARA BOT
+############################
+############################
 from flask import Flask , request , jsonify , Response
 from flask_pymongo import PyMongo
 from bson import json_util
